@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Aidan Comi! (he/him)
+
 You can find me on [Twitter](https://twitter.com/aidancomi), [Instagram](https://www.instagram.com/aidancomi/), [TikTok](https://www.tiktok.com/@aidancomi), and [YouTube](https://comi.link/youtube)!
 
 I have built a couple sites which can be found on my GitHub including [clearyourcookiesandcache.com](https://clearyourcookiesandcache.com)!
